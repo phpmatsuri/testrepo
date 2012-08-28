@@ -1,0 +1,11 @@
+---
+layout: post
+title: Test2
+---
+
+h1. {{ page.title }}
+
+p(meta). 29 Mar 2011 / 29 Dec 2008 - PHPMatsuri
+
+
+"testlink2":http://www.google.com
